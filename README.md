@@ -1,16 +1,30 @@
-### Hi there 👋
+# JokerSlack(or jokerWare)
 
-<!--
-**JokerSlack/JokerSlack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Email](mailto:your-email@example.com) | [Portfolio](https://yourportfolio.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+A passionate software developer with experience in web development, cybersecurity, Skilled in Python, JavaScript, and web frameworks like Flask. Always eager to learn new technologies and contribute to open-source projects.
+
+---
+
+## Skills
+
+- **Languages**: Python, JavaScript, SQL, Bash
+- **Web Development**: Flask, HTML/CSS
+- **Databases**: MySQL, SQLite
+- **Tools & Technologies**: Git, Docker
+- **Cybersecurity**: Penetration Testing, Vulnerability Assessment
+- **Others**: Agile Methodologies, REST APIs
+
+---
+
+## Languages
+
+- **Portuguese**: Fluent
+- **English**: Intermediate
+
+---
+
