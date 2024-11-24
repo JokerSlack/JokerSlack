@@ -13,7 +13,7 @@ A passionate software developer with experience in web development, cybersecurit
 ## Skills
 
 - **Languages**: Python, JavaScript, SQL, Bash
-- **Web Development**: Flask, HTML/CSS
+- **Web Development**: Flask, HTML/CSS, node
 - **Databases**: MySQL, SQLite
 - **Tools & Technologies**: Git, Docker
 - **Cybersecurity**: Penetration Testing, Vulnerability Assessment
