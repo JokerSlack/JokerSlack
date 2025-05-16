@@ -1,6 +1,6 @@
-# JokerSlack(or jokerWare)
+# jokerWare
 
-[Email](mailto:your-email@example.com) | [Portfolio](https://yourportfolio.com)
+[Email](mailto:jorgeguimaraes.ware@gmail.com)
 
 ---
 
